@@ -8,4 +8,5 @@ DataAnalysis/.DS_Store
 *.jpg
 *.png
 DataAnalysis/*.jpg
-DataAnalysis/*.png			  
+DataAnalysis/*.png	
+DataAnalysis/DAsrc/test.py
