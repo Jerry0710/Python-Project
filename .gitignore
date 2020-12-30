@@ -5,4 +5,7 @@ DataAnalysis/.idea/.gitignore
 
 .DS_Store
 DataAnalysis/.DS_Store
-
+*.jpg
+*.png
+DataAnalysis/*.jpg
+DataAnalysis/*.png			  
