@@ -1,2 +1,7 @@
 #忽略venv的文件变更
 venv/
+
+DataAnalysis/.idea/.gitignore
+
+.DS_Store
+DataAnalysis/.DS_Store
