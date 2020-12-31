@@ -24,7 +24,7 @@ class Solution:
                 j += 1
                 next_KMV.append(j)
             else:
-                j = next_KMV[j]       # 递归细想
+                j = next_KMV[j]       # 核心（如果不匹配，找之前能匹配到的最大值）
         j = 0
         for i in range(N):
             while (haystack[i] != needle[j]) & (j != 0):
