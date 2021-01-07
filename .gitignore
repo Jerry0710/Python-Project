@@ -10,3 +10,4 @@ DataAnalysis/.DS_Store
 DataAnalysis/*.jpg
 DataAnalysis/*.png	
 DataAnalysis/DAsrc/test.py
+*.ttc
